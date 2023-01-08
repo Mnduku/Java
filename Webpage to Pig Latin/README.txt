@@ -1,0 +1,1 @@
+run with the name of a file to have it written to a new file translated in pig latin
